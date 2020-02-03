@@ -40,7 +40,7 @@ Then to run the server, go to the directory 'Catalogue-management-system/backend
 Your server is set up with all the APIs active.
 
 For Frontend which is ReactJS, Dependencies are:
-
+```
   "axios": "^0.19.0",
   "react": "^16.12.0",
   "react-dom": "^16.12.0",
@@ -48,6 +48,7 @@ For Frontend which is ReactJS, Dependencies are:
   "react-router-dom": "^5.1.2",
   "redux": "^4.0.4",
   "react-scripts": "0.9.5"
+```  
 Go to 'Catalogue-management-system/frontend/cms_ui/' and type the following code in the terminal:
 
     npm install
