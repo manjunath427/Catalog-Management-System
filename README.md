@@ -10,7 +10,7 @@ Category breadcrumb should be displayed on the product page.
 Product, Brand and Category names must be unique.
 Prerequisites
 You need to install the following packages for backend:
-
+```
    asgiref==3.2.3
    Django==3.0.1
    django-cors-headers==3.2.0
@@ -20,7 +20,7 @@ You need to install the following packages for backend:
    pytz==2019.3
    six==1.13.0
    sqlparse==0.3.0
-
+```
 ### Installing
 Clone the repository
 
